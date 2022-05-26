@@ -2,12 +2,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sarah, Fullstack developer currently living in <b>Denver, Colorado.</b> </p>
-<br>
-[![Stats](https://github-readme-stats.vercel.app/api?username=mcglauflins&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mcglauflins&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/mcglauflins/mcglauflins/README.md" width="195">
+### Welcome to my page! I'm Sarah, Fullstack developer currently living in Denver, Colorado.
+<br></br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mcglauflins?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcglauflins&layout=compactcardType=level&theme=dracula)](https://github.com/mcglauflins/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcglauflins&rank=SSS,SS,S,AAA,AA,A,B&theme=dracula)](https://github.com/mcglauflins/github-profile-trophy)
+<br></br>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -23,7 +25,11 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
-
+<h3>Other Technologies I use</h3>
+<p>
+<img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
+</p>
+<br></br>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
