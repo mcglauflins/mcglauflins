@@ -3,6 +3,13 @@
 
 
 ### Welcome to my page! I'm Sarah, Fullstack developer currently living in Denver, Colorado.
+
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m always learning something new with coding 
+- 👯 I’m looking to be a part of a great team of developers!
+- 🥅 2022 Goals: Learn more backend development
+- ⚡ Fun fact: I love to play Apex any chance I can!
+
 <br></br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mcglauflins?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcglauflins&layout=compactcardType=level&theme=dracula)](https://github.com/mcglauflins/github-readme-stats)
