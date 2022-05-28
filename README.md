@@ -38,10 +38,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcglauflins&cardType=level&theme=dracula)](https://github.com/mcglauflins/github-readme-stats)
  
 <h2></h2>
-<br></br>
 
 <h3>Where To Find Me</h3>
-<p><a href="https://github.com/mcglauflins" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/mcglauflins/" target="_blank"><img alt="Leet" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<p><a href="https://github.com/mcglauflins" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sarah-mcglauflin-a9ab35185/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/mcglauflins/" target="_blank"><img alt="Leet" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 
