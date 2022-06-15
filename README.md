@@ -2,12 +2,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>Glad You're Here!</h1>
 
 
-### Welcome to my page! I'm Sarah, a fullstack developer currently living in Denver, Colorado. When I'm not coding or working, you can find me playing video games and playing with my dogs! I attended formal college starting in 2016, unsure of what career field I was interested in. I have achieved an A.A. in general studies since then, but still felt unsure of what career fueled my passion. I decided to take a semester off and attend 4Geeks Academy for coding and haven't looked back since!
+### Welcome to my page! I'm Sarah, a fullstack developer currently living in Denver, Colorado. When I'm not coding or working, you can find me playing video games and playing with my dogs! I attended formal college starting in 2016. I have achieved an A.A. in general studies since then, but I decided to take a semester off and attend 4Geeks Academy for coding and decided to change my carreer path to Software Developing!
 ### Here are some fun facts about me
 - 😍 I love frontend developing the most!
 - 🌱 I’m always learning something new with coding 
 - 👯 I’m looking to be a part of a great team of developers!
-- 🥂 2022 Goals: Learn more backend development
+- 🥂 2022 Goals: Practice Python More!!
 - ⚡ Fun fact: I love to play Apex any chance I can!
 <br></br>
 <h3>Technologies I Use</h3>
