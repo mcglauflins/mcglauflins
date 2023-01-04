@@ -7,7 +7,7 @@
 - 😍 I love frontend developing the most!
 - 🌱 I’m always learning something new with coding 
 - 👯 I’m looking to be a part of a great team of developers!
-- 🥂 2022 Goals: Practice Python More!!
+- 🥂 2023 Goals: Practice Python More!!
 - ⚡ Fun fact: I love to play Apex any chance I can!
 <br></br>
 <h3>Technologies I Use</h3>
