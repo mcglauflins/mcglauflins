@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/mcglauflins/mcglauflins/assets/96248142/f273bac1-c924-455e-93f2-929db73984f2" width="950" height="360"/>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>Glad You're Here!</h1>!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>Glad You're Here!</h1>
 
 
 
