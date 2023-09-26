@@ -1,5 +1,6 @@
-<img align="center" src="banners.png" width="850" height="360"/>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>Glad You're Here!</h1>
+<img align="center" src="https://github.com/mcglauflins/mcglauflins/assets/96248142/f273bac1-c924-455e-93f2-929db73984f2" width="950" height="360"/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/>Glad You're Here!</h1>!
+
 
 
 ### Welcome to my page! I'm Sarah! When I'm not coding or working, you can find me playing video games and playing with my dogs! I attended formal college and I have achieved an A.A. in general studies since then. I decided to attend 4Geeks Academy for coding to enhance my skill set further and allow me to succeed in any career!
