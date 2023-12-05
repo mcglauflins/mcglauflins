@@ -3,11 +3,11 @@
 
 
 
-### Welcome to my page! I'm Sarah! When I'm not coding or working, you can find me playing video games and playing with my dogs! I attended formal college and I have achieved an A.A. in general studies since then. I decided to attend 4Geeks Academy for coding to enhance my skill set further and allow me to succeed in any career!
+### Welcome to my page! I'm Sarah! When I'm not coding or working, you can find me playing with my dogs! I attended formal college and I have achieved an A.A. in general studies since then. I decided to attend 4Geeks Academy for coding to enhance my skill set further and allow me to transfer these skills into any oppurtunity!
 ### Here are some fun facts about me
 - 😍 I love frontend development the most!
 - 🌱 I’m always learning something new with coding 
-- ⚡ Fun fact: I love to learn something new each year to help me in an endeavor!
+- ⚡ Fun fact: I love to learn something new each year to help me in any endeavor!
 <br></br>
 <h3>Technologies I Use</h3>
 <p>
